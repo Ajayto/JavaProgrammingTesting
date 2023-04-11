@@ -8,6 +8,7 @@ public class linkedListDemo {
 		// TODO Auto-generated method stub
 LinkedList ll=new LinkedList<>();
 ll.add(10);
+ll.add(10);
 ll.add("Tom");
 ll.add(1, 25);
 ll.add("Tom");
