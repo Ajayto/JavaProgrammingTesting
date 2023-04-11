@@ -13,6 +13,7 @@ tm.put(102, "Rani");
 tm.put(104, "Raj");
 tm.put(100, "Sudha");
 tm.put(107, "abc");
+tm.put(107, "abc");
 NavigableMap nm=tm.descendingMap();
 System.out.println(tm);
 //System.out.println(tm.descendingMap());
